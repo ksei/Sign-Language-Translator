@@ -1,6 +1,8 @@
 
-Keywords: ASL, SVM, HOG, Machine Learning, Image Detection, Image Recognition, Classifier, Support Vector Machine, Python, CVXOPT
+**Keywords:**
 
-Abstract:
+ASL, SVM, HOG, Machine Learning, Image Detection, Image Recognition, Classifier, Support Vector Machine, Python, CVXOPT
+
+**Abstract:**
 
 The purpose of this project is to study and observe the use of Multiclass Support Vector Machine classifiers for designing and implementing a software application capable of translating real-time, static, sign language gestures into letters. Targeting at people with speech or hearing impairments, this project aims to provide an example of the potential use of machine learning classifiers in the translation of the American Sign Language (ASL) gestures into alphabetic characters. Translating characters will finally result in building words and furthermore sentences. Such an outcome, might serve as a good means of communication between the targeted audience and general public in meetings or conferences, which frequently does not understand sign alphabets. In addition, requiring only a web-camera for capturing the desired gestures, the application can be used in any environment that can interpret the Python language. To achieve the desired results, the user must first “train” the software, with real samples of each character. For each gesture the user shows to the application, he/she receives a character under the video frame. It is important to underscore that within the scope and purpose of this project, only the five first alphabetic characters were tested, considered enough to demonstrate the functionality of the solution, and its robustness. Further training can be done for letters of the alphabet, without need of additional development. However, this training as described later in the report, will be time consuming and computationally demanding.# Sign-Language-Translator
